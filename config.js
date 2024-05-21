@@ -13,10 +13,10 @@ global.author = process.env.Author || "@PikaBotz"
 global.packname = process.env.PackName || "Queen Anya v2 MD" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
 global.footer = process.env.Footer || "© Queen Anya Bot" 
-global.prefa = process.env.Prefix || ['-'] 
+global.prefa = process.env.Prefix || ['.'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "923348552641" 
+global.ownernumber = process.env.Owner_Number || "923285715826" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
@@ -109,7 +109,7 @@ module.exports = {
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "923348552641",
+  ownernumber: process.env.Owner_Number || "923285715826",
   adress: process.env.Continent || "Asia, India, Assam",
   timezone: process.env.TimeZone || "Asia/Kolkata", 
   instagramId: process.env.Insta || "8.08_only_mine",
